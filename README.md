@@ -10,6 +10,7 @@ Folder Name: insertdata
 Database Name: insertdata
 Table Name: tblcontact
 
+```
 CREATE TABLE `tblcontact` (
 `contact_id` int(11) NOT NULL, 
 `user_name` varchar(100) NOT NULL,
@@ -17,6 +18,7 @@ CREATE TABLE `tblcontact` (
 `subject` varchar(255) NOT NULL,
 `content` text NOT NULL
 );
+```
 
 4.Create index.php on folder. Style the form vie and make a dbcon for myphpadmin.
 
