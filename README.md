@@ -21,4 +21,5 @@ CREATE TABLE `tblcontact` (
 
 4. Test the form.
 
-5.Check the database if the data is inserted on the table
+5.Check the database if the data is inserted on the table.
+
