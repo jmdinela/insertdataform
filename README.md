@@ -29,3 +29,5 @@ CREATE TABLE `tblcontact` (
 
 6.Check the database if the data is already inserted on the table.
 
+<img src="image/DatabaseView.png">
+
