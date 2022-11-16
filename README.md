@@ -1,3 +1,4 @@
+<html>
 # insertdataform
 
 1.Install the Xampp Download XAMPP (apachefriends.org)
@@ -24,3 +25,4 @@ CREATE TABLE `tblcontact` (
 
 5.Check the database if the data is inserted on the table.
 
+</html>
