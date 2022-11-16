@@ -1,5 +1,5 @@
 # Insert Data Form
-
+<img src="image/Insert View.png">
 1.Install the Xampp Download XAMPP (apachefriends.org)
 
 2.Make a folder from Local Disk / xampp / htdocs
