@@ -6,7 +6,7 @@
 
 Folder Name: insertdata
 
-3. Create Database
+3.Create Database
 Database Name: insertdata
 Table Name: tblcontact
 
@@ -18,9 +18,9 @@ CREATE TABLE `tblcontact` (
 `content` text NOT NULL
 );
 
-3. Create index.php on folder. Style the form vie and make a dbcon for myphpadmin.
+4.Create index.php on folder. Style the form vie and make a dbcon for myphpadmin.
 
-4. Test the form.
+5.Test the form.
 
-5.Check the database if the data is inserted on the table.
+6.Check the database if the data is inserted on the table.
 
