@@ -2,15 +2,12 @@
 <img src="image/Insert View.png">
 1.Install the Xampp Download XAMPP (apachefriends.org)
 
-2.Make a folder from Local Disk / xampp / htdocs
-
+2.Make a folder from Local Disk / xampp / htdocs<br>
 Folder Name: insertdata
 
 3.Create Database
 
-
-Database Name: insertdata
-
+Database Name: insertdata<br>
 Table Name: tblcontact
 
 ```
